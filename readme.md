@@ -9,3 +9,4 @@
 
 - eslint
 - flowjs / typescript
+- stylus
